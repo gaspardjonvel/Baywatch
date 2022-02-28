@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Staatliches&display=swap');
+@import url('components/container.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/button.css');
+
+
+
+
+body {
+	margin: 0;
+	font-family: 'Lora', serif;
+	background-color: #caf0f8;
+}
+
+a{
+	font-family: 'Great Vibes',cursive;
+	text-decoration: none;
+	text-align: center;
+}
+img{
+	width: 700px;
+}
